@@ -5,7 +5,7 @@ Welcome to My Notes Repository! This is a simple app with an user friendly inter
 - **User Authentication:** Secure user login and registration using Firebase Authentication.
 - **Real-time Note Management:** Create, edit, and delete notes, with changes reflected in real-time.
 - **Intuitive UI:** A clean and user-friendly interface for seamless note management.
-- **Themes:** Additional option of Light Mode/Dark Mode to suit your needs.
+- **Themes:** Additional option of Light Mode/Dark Mode to suit your needs(Change your Phone setting to enable it).
 
 ## Usage
 
