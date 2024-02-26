@@ -1,7 +1,7 @@
 # My_Notes
 Welcome to My Notes Repository! This is a simple app with an user friendly interface that I created as part of my GDSC Android Study Jams Project and what a learning curve it was!
 
-##Features
+## Features
 - **User Authentication:** Secure user login and registration using Firebase Authentication.
 - **Real-time Note Management:** Create, edit, and delete notes, with changes reflected in real-time.
 - **Intuitive UI:** A clean and user-friendly interface for seamless note management.
