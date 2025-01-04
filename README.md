@@ -1,5 +1,5 @@
 # My_Notes
-Welcome to My Notes Repository! This is a simple app with an user friendly interface that I created as part of my GDSC Android Study Jams Project and what a learning curve it was!
+Welcome to My Notes Repository! This is a simple app with an user friendly interface that I created as part of my GDG on Campus Android Study Jams Project and what a learning curve it was!
 
 ## Features
 - **User Authentication:** Secure user login and registration using Firebase Authentication.
